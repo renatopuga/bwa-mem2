@@ -15,7 +15,7 @@ Commands:
 
 # How to index reference fasta file
 ```bash
-# dir fasta file
+# genome (FASTA format)
 cd /reference
 ls
 Homo_sapiens_assembly19.fasta 
